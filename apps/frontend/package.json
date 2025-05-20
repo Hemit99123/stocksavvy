@@ -11,6 +11,7 @@
     "prepare": "husky"
   },
   "dependencies": {
+    "@tailwindcss/vite": "^4.1.7",
     "@vitejs/plugin-react": "^4.3.4",
     "axios": "^1.8.4",
     "cmdk": "^1.1.1",
