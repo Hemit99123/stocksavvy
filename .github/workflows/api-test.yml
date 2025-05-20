@@ -19,7 +19,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          cd apps/backend
+          cd apps/api
           npm install
 
       - name: Run tests (jest)
