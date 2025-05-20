@@ -7,7 +7,6 @@
     "start": "node --experimental-transform-types index.ts",
     "generate": "drizzle-kit generate",
     "migrate": "drizzle-kit migrate",
-    "prepare": "husky install",
     "test": "jest",
     "lint": "eslint src/**/*.ts --fix"
   },
