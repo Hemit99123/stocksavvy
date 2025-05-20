@@ -7,8 +7,7 @@
     "start": "node --experimental-transform-types index.ts",
     "generate": "drizzle-kit generate",
     "migrate": "drizzle-kit migrate",
-    "test": "jest",
-    "lint": "eslint src/**/*.ts --fix"
+    "test": "jest"
   },
   "keywords": [],
   "author": "Hemit Patel",
