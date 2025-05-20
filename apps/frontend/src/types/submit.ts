@@ -1,0 +1,1 @@
+export type SubmitType = "idle" | "loading" | "success"
